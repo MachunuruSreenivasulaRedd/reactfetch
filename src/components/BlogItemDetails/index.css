@@ -1,0 +1,11 @@
+.author-pic{
+    width:30px;
+    height:30px;
+}
+.author-details{
+    display:flex;
+}
+.blog-image{
+    width:80%;
+    height:20%;
+}
